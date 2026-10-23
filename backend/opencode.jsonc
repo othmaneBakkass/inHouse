@@ -1,0 +1,4 @@
+{
+	// Schema for editor autocomplete and validation
+	"$schema": "https://opencode.ai/config.json"
+}
